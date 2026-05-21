@@ -1,0 +1,23 @@
+"variable","label","dimension","PC1","PC2","PC3","PC4","RC1","RC2","RC3","RC4"
+"x1","Long-distance optical cable","Infrastructure",0.131,0.528,0.562,0.297,-0.109,0.171,0.795,-0.162
+"x2","Internet broadband ports","Infrastructure",0.883,0.205,0.289,0.168,0.66,-0.187,0.681,0.001
+"x3","Mobile phone base stations","Infrastructure",0.842,0.144,0.429,0.109,0.597,-0.27,0.692,-0.131
+"x4","Internet domain names","Infrastructure",0.899,-0.107,-0.124,-0.104,0.865,-0.266,0.145,0.082
+"x5","IPv4 addresses","Infrastructure",0.87,-0.046,-0.315,-0.173,0.923,-0.123,0.009,0.144
+"x6","Internet websites","Infrastructure",0.927,-0.108,-0.224,0.06,0.865,-0.267,0.178,0.274
+"x7","Software business revenue","Industry",0.855,-0.215,-0.233,-0.003,0.816,-0.327,0.064,0.233
+"x8","Telecom business revenue","Industry",0.745,0.128,0.095,-0.247,0.728,-0.073,0.258,-0.197
+"x9","Websites per 100 enterprises","Industry",0.191,-0.178,-0.629,0.646,0.127,-0.093,-0.064,0.923
+"x10","% enterprises w/ e-commerce","Industry",0.356,-0.658,0.097,0.288,0.143,-0.756,0.03,0.241
+"x11","E-commerce sales revenue","Industry",0.898,-0.184,-0.067,-0.185,0.868,-0.339,0.1,-0.009
+"x12","Computers per 100 people","Environment",0.115,-0.81,0.397,0.101,-0.11,-0.902,-0.043,-0.099
+"x13","Mobile internet users","Environment",0.887,0.274,0.194,0.237,0.673,-0.106,0.692,0.109
+"x14","Mobile phone subscribers","Environment",0.875,0.344,0.117,0.227,0.694,-0.011,0.668,0.143
+"x15","Digital TV subscribers","Environment",0.843,0.267,-0.103,0.21,0.731,0.012,0.475,0.274
+"x16","Digital inclusive finance index","Environment",0.527,-0.537,0.55,-0.195,0.331,-0.773,0.174,-0.411
+"x17","Digital-real economy integration","Environment",0.928,-0.261,0.097,-0.015,0.783,-0.505,0.264,0.025
+"x18","% IT-related employment","Environment",0.457,-0.719,-0.07,0.162,0.32,-0.753,-0.13,0.265
+"x19","Bachelor's graduates","Environment",0.866,0.318,-0.009,0.089,0.768,0.039,0.504,0.12
+"x20","R&D personnel (FTE)","Environment",0.881,0.098,-0.233,-0.29,0.958,-0.009,0.07,-0.009
+"x21","R&D institutions","Environment",0.881,0.258,-0.163,-0.136,0.899,0.078,0.269,0.051
+"x22","Patent grants","Environment",0.934,-0.028,-0.05,-0.237,0.924,-0.209,0.17,-0.069

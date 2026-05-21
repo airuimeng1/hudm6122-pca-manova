@@ -1,0 +1,23 @@
+"variable","label","dimension","mean","sd","min","median","max","skew","kurt"
+"x1","Long-distance optical cable","Infrastructure",33020,19120,915,34090,125400,0.9622,3.785
+"x2","Internet broadband ports","Infrastructure",2467,1926,44.1,2032,9892,1.311,1.468
+"x3","Mobile phone base stations","Infrastructure",21.79,16.59,0.89,18.41,98.94,1.479,2.813
+"x4","Internet domain names","Infrastructure",107.8,146.8,0.4989,52.92,882.5,2.439,6.376
+"x5","IPv4 addresses","Infrastructure",979.5,1548,37.79,558.3,8749,3.927,16.28
+"x6","Internet websites","Infrastructure",12.52,15.81,0.0912,5.501,77.75,2.014,3.974
+"x7","Software business revenue","Industry",2042,3464,0.8744,440.9,22500,2.73,8.831
+"x8","Telecom business revenue","Industry",1430,1916,32.95,676.8,15030,3.042,12.52
+"x9","Websites per 100 enterprises","Industry",49.53,10.71,14.7,49,74,-0.3275,0.2994
+"x10","% enterprises w/ e-commerce","Industry",8.874,3.762,1.501,8.9,24.72,0.7809,1.835
+"x11","E-commerce sales revenue","Industry",4861,7171,31.4,2384,47420,2.853,9.313
+"x12","Computers per 100 people","Environment",29.14,11.88,11.63,26.85,80.74,1.7,3.783
+"x13","Mobile internet users","Environment",3806,2788,162.4,3234,15100,1.484,2.804
+"x14","Mobile phone subscribers","Environment",4714,3267,265.6,4009,16820,1.326,2.102
+"x15","Digital TV subscribers","Environment",625.6,442.6,13.06,554.6,1971,0.9797,0.3901
+"x16","Digital inclusive finance index","Environment",275.9,78.78,115.1,282.4,475.8,0.004145,-0.81
+"x17","Digital-real economy integration","Environment",33.53,62.38,0.0005679,10.54,441,3.688,16.02
+"x18","% IT-related employment","Environment",2.115,1.797,0.8497,1.599,13.51,3.966,17.65
+"x19","Bachelor's graduates","Environment",125200,74640,4818,121000,343600,0.403,-0.3433
+"x20","R&D personnel (FTE)","Environment",146500,174200,1126,97370,972500,2.196,5.13
+"x21","R&D institutions","Environment",2801,5664,2,672.5,32940,3.152,9.851
+"x22","Patent grants","Environment",78120,122300,121,35950,872200,3.453,14.69
