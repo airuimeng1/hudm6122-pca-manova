@@ -1,9 +1,9 @@
-# HUDM 6122 Final Project — PCA + Factorial MANOVA on China's Provincial Digital Economy
+# PCA + Factorial MANOVA on China's Provincial Digital Economy
 
 **Measuring Regional Disparities in China's Digital Economy Development:
 A Multivariate Analysis Using PCA and Factorial MANOVA, 2013–2022**
 
-Airui Meng · HUDM 6122 Multivariate Analysis I · Teachers College, Columbia University · Spring 2026
+Airui Meng
 
 This repository contains the R analysis pipeline, panel data, intermediate outputs, and
 typeset report for a course project that constructs a Digital Economy Development Index
