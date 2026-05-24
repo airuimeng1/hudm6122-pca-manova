@@ -1,4 +1,4 @@
-# PCA + Factorial MANOVA on China's Provincial Digital Economy
+# Detailed PCA + Factorial MANOVA on China's Provincial Digital Economy
 
 **Measuring Regional Disparities in China's Digital Economy Development:
 A Multivariate Analysis Using PCA and Factorial MANOVA, 2013–2022**
