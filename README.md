@@ -156,17 +156,3 @@ footprint is small (only `x5` IPv4 addresses at 20.3% of cells, `x13` mobile int
 users at 8.4%, and `x21` R&D institutions at 0.3% required any interpolation).
 
 ---
-
-## Licence and citation
-
-This is coursework submitted in partial fulfilment of HUDM 6122 (Spring 2026) at
-Teachers College, Columbia University. The code and analysis are released for
-review and reproduction. The underlying yearbook data are public statistical
-releases of the Chinese government; the Digital Inclusive Finance Index belongs to
-the Digital Finance Research Center of Peking University.
-
-If you build on this work, please cite it as:
-
-> Meng, Airui (2026). *Measuring Regional Disparities in China's Digital Economy
-> Development: A Multivariate Analysis Using PCA and Factorial MANOVA,
-> 2013–2022.* HUDM 6122 Final Project, Teachers College, Columbia University.
